@@ -98,7 +98,6 @@
     <Compile Include="CloneRentalProject.cs" />
     <Compile Include="ForecastedInvoicesDates.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UpdateAutomatedQuoteNumber.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
