@@ -20,7 +20,7 @@ namespace BOLT.NPS.Rental.CostSheetChildren
     /// Message, Stage, Order, Mode: Update, PreOperation, 2, Synchronous 
     /// Image: Pre Image, bolt_grossprofitpercentage, bolt_rentaltypegen, bolt_monthlycostinput, bolt_rerent, bolt_rentalshiftgen, bolt_singledaycostinput, bolt_totaldays, bolt_totalmonths, bolt_totalweeks, bolt_weeklycostinput
     /// </remarks>
-    public class CableCostPrice_calculations : IPlugin
+    public class RentalCables_CostPriceCalculations : IPlugin
     {
         public void Execute(IServiceProvider serviceProvider)
         {
